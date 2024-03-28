@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student in Geophysics/Seismology at the University of Southern California.
+:student: I am a final year PhD student in Geophysics/Seismology at the University of Southern California.
 
 My research interests are focused on statistical seismology for earthquake forecasting and testing models. I have special interest in Full Waveform Tomography at various scales.
 
