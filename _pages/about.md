@@ -11,10 +11,11 @@ redirect_from:
 
 Research
 ======
+![RSQSim](https://github.com/lvazquezseismo/luisvazquez/assets/165330765/2cd2bb2e-e3ef-4edb-b85f-cf381e839ed2)
 
-<video width="320" height="240" controls>
-  <source src="/files/RSQSim.mp4" type="video/mp4">
-</video>
+#<video width="320" height="240" controls>
+#  <source src="/files/RSQSim.mp4" type="video/mp4">
+#</video>
 
 ![](https://github.com/lvazquezseismo/luisvazquez/tree/master/files/RSQsim.gif)
 
