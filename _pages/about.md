@@ -21,7 +21,7 @@ I do not do this in a deterministic way, but I employ Bayesian methods to update
 
 <img src=/images/UCERF3.png />
 
-Figure taken from <a href="url">[link text](http://wgcep.org/UCERF3.html)</a>
+Figure taken from <a href="url">[wgcep.org](http://wgcep.org/UCERF3.html)</a>
 
 Where does my data to update UCERF3 come from? Long-multicycle earthquake simulations based on the physics of earthquakes! (RSQSim model)
 
