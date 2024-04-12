@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 Geophysicist interested in natural hazards, numerical simulations, and data science. I have experience in numerical simulations of tsunami and seismic wave propagation in complex media across different scales (regional and global). I apply statistical tools to earthquake rupture forecasting utilizing deterministic earthquake simulators. I have a deep understanding of probabilistic seismic(and tsunami) hazard models, as well as full waveform tomography.
+🧑‍🎓 Geophysicist interested in natural hazards, numerical simulations, and data science. I have experience in tsunami simulations and seismic wave propagation in complex media across different scales (regional and global). I apply statistical tools to earthquake rupture forecasting utilizing deterministic earthquake simulators. I have a deep understanding of probabilistic seismic(and tsunami) hazard models, as well as full waveform tomography.
 
-Currently, I am in the last year of my doctoral studies at the University of Southern California under the supervision of Prof. Thomas H. Jordan. However, I am interested in future positions in the natural hazard and risk fields.
+Currently, I am in the last year of my doctoral studies at the University of Southern California under the supervision of Prof. Thomas H. Jordan. However, I am interested in future positions in the natural hazard and risk fields, and in HPC simulation applying conventional (finite difference or finite element) methos as well as Fourier Neural Operators to solve PDEs.
 
 
 Research
