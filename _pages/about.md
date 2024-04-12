@@ -21,9 +21,7 @@ I do not do this in a deterministic way, but I employ Bayesian methods to update
 
 Where does my data to update UCERF3 come from? Long-multicycle earthquake simulations based on the physics of earthquakes! (RSQSim model)
 
-<img src=/images/profile.JPG alt="Description of the GIF">
-
-![RSQSim](/images/profile.JPG){: .align-right width="400px"}
+<img src="/images/profile.JPG" width="180" height="105" alt=“animated gif file number 1” title=“animated gif file number 1”/> 
 
 ![RSQSim](https://github.com/lvazquezseismo/luisvazquez/assets/165330765/2cd2bb2e-e3ef-4edb-b85f-cf381e839ed2){: .align-right width="300px"}
 
