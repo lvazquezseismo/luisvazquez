@@ -21,7 +21,7 @@ I do not do this in a deterministic way, but I employ Bayesian methods to update
 
 Where does my data to update UCERF3 come from? Long-multicycle earthquake simulations based on the physics of earthquakes! (RSQSim model)
 
-![RSQSim](/images/RSQSim.gif){: .align-right width="300px"}
+![RSQSim](/images/RSQSim.gif){: .align-right width="400px"}
 
 ![RSQSim](https://github.com/lvazquezseismo/luisvazquez/assets/165330765/2cd2bb2e-e3ef-4edb-b85f-cf381e839ed2){: .align-right width="300px"}
 
