@@ -35,7 +35,7 @@ I solve the  elasto-dynamic wave equation to study seismic propagation across di
 
 Regional Scale: Southern California
 
-
+![Regional wave propagation simulation](https://github.com/lvazquezseismo/luisvazquez/blob/master/files/Hercules.gif)
 
 Global Scale: Planet earth (Mars would be nice too!)
 
