@@ -19,9 +19,9 @@ I manipulate earthquake numerical simulations (complex spatio-temporal slip dist
 
 I do not do this in a deterministic way, but I employ Bayesian methods to update prior earthquake rupture forecasts. Specifically, I update the time-independent model of the Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3) of Field et al. (2014). 
 
-<img src=/files/UCERF3.png />
+<img src=/images/UCERF3.png />
 
-Figure taken from <url src = http://wgcep.org/UCERF3.html>
+Figure taken from <a href="url">[link text](http://wgcep.org/UCERF3.html)</a>
 
 Where does my data to update UCERF3 come from? Long-multicycle earthquake simulations based on the physics of earthquakes! (RSQSim model)
 
