@@ -7,21 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓 I am a final year PhD student in Geophysics/Seismology at the University of Southern California working with Tom Jordan. My research interests are focused on statistical seismology for earthquake forecasting and models testing. I am also interested in Full Waveform Tomography and waveform simulations in complex media across various scales.
+🧑‍🎓 Geophysicist interested in natural hazards, numerical simulations, and data science. I have experience in numerical simulations of tsunami and seismic wave propagation in complex media across different scales (regional and global). I apply statistical tools to earthquake rupture forecasting utilizing deterministic earthquake simulators. I have a deep understanding of probabilistic seismic(and tsunami) hazard models, as well as full waveform tomography.
 
-I have a deep understing of numerical modeling, HPC, data science, ML, and natural hazard (risk) studies.
+Currently, I am in the last year of my doctoral studies at the University of Southern California under the supervision of Prof. Thomas H. Jordan. However, I am interested in future positions in the natural hazard and risk fields.
+
 
 Research
 ======
 
 I manipulate earthquake numerical simulations (complex spatio-temporal slip distributions) like RSQSim-type generated catalogs to draw statistical insights of earthquake predictability.
 
-
 I do not do this in a deterministic way, but I employ Bayesian methods to update prior earthquake rupture forecasts. Specifically, I update the time-independent model of the Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3) of Field et al. (2014). 
+
+<img src=/files/UCERF3.png />
+
+Figure taken from <url src = http://wgcep.org/UCERF3.html>
 
 Where does my data to update UCERF3 come from? Long-multicycle earthquake simulations based on the physics of earthquakes! (RSQSim model)
 
-<img src=/images/profile.JPG /> 
 
 ![RSQSim](https://github.com/lvazquezseismo/luisvazquez/assets/165330765/2cd2bb2e-e3ef-4edb-b85f-cf381e839ed2){: .align-right width="300px"}
 
