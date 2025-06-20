@@ -1,5 +1,5 @@
 ---
-title: "Teleseismic measurements of Upper Mantle Shear-Wave Anisotropy inSouthern Mexico"
+title: "Teleseismic measurements of Upper Mantle Shear-Wave Anisotropy in Southern Mexico"
 collection: publications
 permalink: /publication/Anisotropy.pdf
 excerpt: 'This paper is about shear wave anisotropy measurements to infer mantle flow patterns in Mexico'
