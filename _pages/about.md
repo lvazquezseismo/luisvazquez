@@ -20,7 +20,7 @@ I manipulate earthquake numerical simulations (complex spatio-temporal slip dist
 
 I do not do this in a deterministic way, but I employ Bayesian methods to update prior earthquake rupture forecasts. Specifically, I update the time-independent model of the Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3) of Field et al. (2014). 
 
-<img src=../images/UCERF3.png >
+<img src=/images/UCERF3.png >
 
 Figure taken from <a href="url">[wgcep.org](http://wgcep.org/UCERF3.html)</a>
 
@@ -35,11 +35,11 @@ I solve the  elasto-dynamic wave equation to study seismic propagation across di
 
 Regional Scale: Southern California
 
-![Regional wave propagation simulation](https://github.com/lvazquezseismo/luisvazquez/blob/master/files/Hercules.gif)
+![Regional wave propagation simulation](/files/Hercules.gif)
 
 Global Scale: Planet earth (Mars would be nice too!)
 
-![Global wave propagation simulation](https://github.com/lvazquezseismo/luisvazquez/blob/master/files/specfemGlobe.gif)
+![Global wave propagation simulation](/files/specfemGlobe.gif)
 
 For more info
 ------
