@@ -1,5 +1,5 @@
 ---
-title: ""Numerical Simulation of Tsunami Coastal Amplitudes in the Pacific Coast of Mexico Based on Non-Uniform k^-2 Slip Distributions""
+title: "Numerical Simulation of Tsunami Coastal Amplitudes in the Pacific Coast of Mexico Based on Non-Uniform k^-2 Slip Distributions"
 collection: publications
 permalink: /publication/Tsunamis.pdf
 excerpt: 'This paper is about my work on tsunami simulations along the Pacific Coasts of Mexico.'
