@@ -1,5 +1,5 @@
 ---
-title: "Assimilation of deterministic m ultic y cle earthquake simulations into probabilistic rupture forecasts"
+title: "Assimilation of deterministic multicycle earthquake simulations into probabilistic rupture forecasts"
 collection: publications
 permalink: /publication/LVazquez_Paper.pdf
 excerpt: 'My PhD work is published in this paper. We combined multy-cycle earhtquake simulators with probabilistic rupture forecasts'
