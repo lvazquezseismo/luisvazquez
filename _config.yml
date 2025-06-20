@@ -22,9 +22,9 @@ repository               : "lvazquezseismo/lvazquezseismo.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Luis Vazquez"
+  name             : "Luis Vazquez, PhD"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Doctoral researcher at USC"
+  bio              : "Postdoctoral researcher at USC"
   location         : "Los Angeles"
   employer         : "University of Southern California"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8041-737X"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
