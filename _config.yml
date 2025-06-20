@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Luis' Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Luis Vazquez"
 description              : &description "personal description"
